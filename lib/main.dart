@@ -36,7 +36,6 @@ class _DicePageState extends State<DicePage> {
 
   @override
   Widget build(BuildContext context) {
-    // leftDiceNumber = 2;
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
